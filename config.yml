@@ -10,6 +10,7 @@ buildFuture: false
 buildExpired: false
 enableEmoji: true
 pygmentsUseClasses: true
+googleAnalytics: UA-166863048-1
 
 params:
   env: production
