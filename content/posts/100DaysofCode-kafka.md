@@ -2,7 +2,7 @@
 title: "#100DaysofCode Kafka"
 date: 2022-07-20T08:42:27+07:00
 draft: false
-tags: ["100DaysofCode", "kafka"]
+tags: [100DaysofCode, kafka]
 ---
 
 Mulai hari ini `20 Juli 2022` saya akan memulai tantangan belajar Apache kafka dalam 100 hari.
@@ -25,10 +25,5 @@ Goal yang saya harapkan:
 3. Saya akan push sourcecode di github setiap hari, jadi siapapun dapat melihat progressnya.
 
 ## Resource
-
-```js
-let code = [];
-code.push("rizal", "wildan");
-```
 
 [Kafka Confluent](https://docs.confluent.io/home/overview.html)
