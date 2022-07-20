@@ -1,5 +1,5 @@
 ---
-title: "#100DaysofCode Kafka | Day 1"
+title: "#100DaysofCode Kafka | Quick Start | Day 1"
 date: 2022-07-20T12:37:03+07:00
 draft: false
 tags: [100DaysofCode, kafka]
