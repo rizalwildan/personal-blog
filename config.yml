@@ -1,4 +1,4 @@
-baseURL: "https://rzlwldn.github.io/"
+baseURL: "https://rzlwldn.netlify.app/"
 languageCode: "en-us"
 title: "rzlwldn"
 theme: "PaperMod"
