@@ -1,7 +1,7 @@
 ---
 title: "Pacman Basic Commands"
 date: 2022-08-09T09:14:46+07:00
-draft: true
+draft: false
 tags: [Cheat Sheet, ArchLinux]
 ---
 
