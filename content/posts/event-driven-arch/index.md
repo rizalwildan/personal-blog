@@ -1,7 +1,7 @@
 ---
 title: "Event-Driven Architecture: Shaping the Future of Scalable and Responsive Systems"
 date: 2023-09-13T22:24:31+07:00
-draft: true
+draft: false
 tags: [Architecture, Event Driven]
 ---
 
