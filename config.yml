@@ -14,8 +14,8 @@ googleAnalytics: UA-166863048-1
 
 params:
   env: production
-  description: "Software Engineer, Fast Learner, Cinta linux, Suka Ngopi"
-  author: RizalWildan
+  description: "Fortis Fortuna Adiuvat"
+  author: rzlwldn
   ShowPostNavLinks: true
   ShowCodeCopyButtons: true
   ShowRssButtonInSectionTermList: true
@@ -23,11 +23,11 @@ params:
   # ShowShareButtons: true
   homeInfoParams:
     Title: Hi there
-    content: Software Engineer, Fast Learner, Cinta linux, Suka Ngopi
+    content: Fortis Fortuna Adiuvat
 
   socialIcons:
     - name: "github"
-      url: "https://github.com/rzlwldn"
+      url: "https://github.com/rizalwildan"
     - name: "twitter"
       url: "https://twitter.com/rzlwldn"
 
